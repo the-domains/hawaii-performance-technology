@@ -12,4 +12,8 @@ color:
     - '#C7CAD1'
 layout_spectrum: 0.2643147478811443
 name: Hawaii Performance Technology
+navigation:
+  - name: Life in the fast lane...
+    url: www.808performance.com
+    type: external
 title: Because Race Car
