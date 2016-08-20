@@ -1,4 +1,3 @@
-layout_spectrum: 0.2643147478811443
 typography_spectrum: 0.5745380008593202
 color:
   brandStrength: 0.7390926913358271
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.2643147478811443
 name: Hawaii Performance Technology
+title: Because Race Car
